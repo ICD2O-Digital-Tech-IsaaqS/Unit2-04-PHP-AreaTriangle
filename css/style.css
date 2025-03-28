@@ -1,4 +1,20 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Isaaq Simon
+* Created on: Mar 2025
+* This CSS file defines the style for index.php
+* ICS2O-Unit2-04-PHP-Area-of-a-Triangle
 */
+
+body {
+    background-color: rgb(37, 220, 20);
+}
+
+h1 {
+    background-color: rgb(177, 236, 16);
+    color: hsl(330, 63%, 32%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #ff7b00;
+}
